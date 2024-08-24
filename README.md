@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Week 0 Challenge: MoonLight Energy Solutions - Solar Radiation Data Analysis
 
 This repository contains the code and analysis for the Week 0 Challenge in MoonLight Energy Solutions. This challenge is part of the evaluation for a 12-week training program in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE). 
@@ -118,4 +118,4 @@ This project is licensed under the 10 Acadamy.
 ---
 
 
->>>>>>> e3af63c9f90c5c25867d936346c163b36db1f319
+
